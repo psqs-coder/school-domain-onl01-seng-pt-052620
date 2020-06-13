@@ -7,9 +7,6 @@ class School
     @roster = roster
   end
   
-  	def initialize(school)
-    @school = school
-  end
   
   def roster
   	roster = {}
@@ -23,6 +20,6 @@ class School
 
 end
 
-School.new("R").roster.add_student("john",9)
+
   
   
