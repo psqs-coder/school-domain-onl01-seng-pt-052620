@@ -7,8 +7,8 @@ class School
     @roster = roster
   end
   
-  
-  
+  school.roster =[]
+school.add_student  
 
 
   
